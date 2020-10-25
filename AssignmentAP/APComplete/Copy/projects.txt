@@ -1,0 +1,10 @@
+pr1	1	1	own1	{P=4, W=3, A=2, N=1}
+pr2	2	2	own2	{W=4, A=3, N=2, P=1}
+pr3	3	3	own3	{W=4, P=3, A=2, N=1}
+pr4	4	4	own4	{N=4, W=3, A=2, P=1}
+pr5	5	5	own5	{P=4, N=3, A=2, W=1}
+pr6	6	6	own6	{W=4, P=3, N=2, A=1}
+pr7	7	7	own7	{A=4, W=3, P=2, N=1}
+pr8	8	8	own8	{N=4, A=3, W=2, P=1}
+pr9	9	9	own9	{P=4, A=3, W=2, N=1}
+pr10	10	10	own10	{A=4, W=3, P=2, N=1}

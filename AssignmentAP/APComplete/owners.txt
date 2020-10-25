@@ -1,0 +1,11 @@
+
+own6   6	6		6	6		c6
+own7   7	7		7	7		c7
+own8   8	8		8	8		c8
+own9   9	9		9	9		c9
+own2   2	2		2	2		c2
+own3   3	3		3	3		c3
+own4   4	4		4	4		c4
+own5   5	5		5	5		c5
+own10   10	10		10	10		c10
+own1   1	1		1	1		c1
